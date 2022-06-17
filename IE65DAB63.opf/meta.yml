@@ -1,0 +1,427 @@
+id: IE65DAB63
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T13:56:02.476494'
+last_modified: '2022-06-17T13:56:02.476515'
+parser: null
+source_metadata:
+  title: Sādhanas Series
+  language: pt
+  description: 'Lotsawa House presents the following sādhanas (sgrub thabs). (Please
+    note that you may need to receive empowerment, transmission and instructions from
+    a qualified lineage-holder before putting these sādhanas into practice):'
+  volume:
+    f8F6C:
+      title: Acala Sādhana
+      base_file: f8F6C.txt
+      order: 1
+      parent: Acala
+    f8F5B:
+      title: A Daily Practice of Buddha Akṣobhya
+      base_file: f8F5B.txt
+      order: 2
+      parent: Akṣobhya
+    f4267:
+      title: 'The Swift Path to Great Bliss: A Sādhana of Amitābha, Buddha of Limitless
+        Light'
+      base_file: f4267.txt
+      order: 3
+      parent: Amitābha
+    f143A:
+      title: A Daily Long-Life Practice of Amitāyus
+      base_file: f143A.txt
+      order: 4
+      parent: Amitāyus
+    fDACC:
+      title: 'The Sublime Path to Immortality: The Quintessence of Profoundly Secret
+        Pith Instructions on Attaining Vajra Longevity'
+      base_file: fDACC.txt
+      order: 5
+      parent: Amitāyus
+    fE587:
+      title: 'Words of Advice on Accomplishing Immortality: An Extremely Concise Daily
+        Practice Uniting the Short Lineages of Amitāyus and Hayagrīva'
+      base_file: fE587.txt
+      order: 6
+      parent: Amitāyus
+    f0640:
+      title: 'The Method of Accomplishment of Ārya Avalokiteśvara: The Practice of
+        Great Compassion & Mahāmudrā in Union'
+      base_file: f0640.txt
+      order: 7
+      parent: Avalokiteśvara
+    fBBEA:
+      title: Visualization and Mantra Recitation of the Great Compassionate One
+      base_file: fBBEA.txt
+      order: 8
+      parent: Avalokiteśvara
+    fDBBD:
+      title: Visualization and Recitation of the Six-Syllable Mantra of Avalokiteśvara
+      base_file: fDBBD.txt
+      order: 9
+      parent: Avalokiteśvara
+    f8092:
+      title: 'The Method of Accomplishment of Ārya Avalokiteśvara: The Practice of
+        Great Compassion & Mahāmudrā in Union'
+      base_file: f8092.txt
+      order: 10
+      parent: Avalokiteśvara
+    fBBD9:
+      title: 'The Wish-Fulfilling Jewel: A Daily Sādhana of the Noble Avalokiteśvara'
+      base_file: fBBD9.txt
+      order: 11
+      parent: Avalokiteśvara
+    f40C1:
+      title: 'The Sādhana of the Five Self-Arisen Noble Brothers: An Instruction in
+        the Union of Generation and Completion'
+      base_file: f40C1.txt
+      order: 12
+      parent: Avalokiteśvara
+    f3435:
+      title: 'Far-Reaching Benefit of Beings, Extensive as the Sky: Visualization
+        and Mantra Recitation of the Great Compassionate One'
+      base_file: f3435.txt
+      order: 13
+      parent: Avalokiteśvara
+    fD5B1:
+      title: A Brief Practice of Paying Homage and Making Offerings to the Sixteen
+        Elders
+      base_file: fD5B1.txt
+      order: 14
+      parent: Buddha Śākyamuni
+    fB2FE:
+      title: 'The Heart of Wish-Fulfilling Jewels: A Brief Practice for Paying Homage
+        and Making Offerings to the Buddha together with his retinue of Arhats'
+      base_file: fB2FE.txt
+      order: 15
+      parent: Buddha Śākyamuni
+    f6351:
+      title: A Practice of Paying Homage and Making Offerings to the Sixteen Elders
+      base_file: f6351.txt
+      order: 16
+      parent: Buddha Śākyamuni
+    f8918:
+      title: 'The Treasury of Blessings: A Practice of Buddha Śākyamuni'
+      base_file: f8918.txt
+      order: 17
+      parent: Buddha Śākyamuni
+    fFCAE:
+      title: The Daily Practice of the Secret Sādhana of Dorje Drolö
+      base_file: fFCAE.txt
+      order: 18
+      parent: Dorje Drolö
+    f59C8:
+      title: 'Accomplishing All Activity: A Daily Practice of the Great and Glorious
+        Dorje Drolö'
+      base_file: f59C8.txt
+      order: 19
+      parent: Dorje Drolö
+    f7285:
+      title: Extremely Secret Unelaborate Daily Sādhana for the Heart Practice of
+        the Great Demon-Slayer
+      base_file: f7285.txt
+      order: 20
+      parent: Dükyi Shechen
+    f3979:
+      title: The Single-Page Practice of the Guru of Great Bliss
+      base_file: f3979.txt
+      order: 21
+      parent: Guru Dewa Chenpo
+    f9AFA:
+      title: Daily Practice of Guru Drakpo
+      base_file: f9AFA.txt
+      order: 22
+      parent: Guru Drakpo
+    f067D:
+      title: Increasing Intelligence – Sealed with Profundity
+      base_file: f067D.txt
+      order: 23
+      parent: Guru Loden Chokse
+    f4D92:
+      title: Daily Practice of Hayagrīva
+      base_file: f4D92.txt
+      order: 24
+      parent: Hayagrīva
+    f9B86:
+      title: A Sādhana of Hayagrīva’s Assembly, from the Heart-Essence of the Vast
+        Expanse
+      base_file: f9B86.txt
+      order: 25
+      parent: Hayagrīva
+    f6A88:
+      title: 'The Falling Rain of Blessings: A Brief Daily Practice of the Wealth
+        Deity White Jambhala'
+      base_file: f6A88.txt
+      order: 26
+      parent: Jambhala
+    fC1CC:
+      title: A Sādhana of Jambhala
+      base_file: fC1CC.txt
+      order: 27
+      parent: Jambhala
+    f6F09:
+      title: Daily Practice of Kagyé
+      base_file: f6F09.txt
+      order: 28
+      parent: Kagyé
+    f8635:
+      title: A Sādhana of Kurukullā from the Tidro Dharma Cycle
+      base_file: f8635.txt
+      order: 29
+      parent: Kurukullā
+    f59E9:
+      title: A Sādhana of Kurukullā
+      base_file: f59E9.txt
+      order: 30
+      parent: Kurukullā
+    f3146:
+      title: A Daily Practice of Lama Sangdü
+      base_file: f3146.txt
+      order: 31
+      parent: Lama Sangdü
+    f9D98:
+      title: 'The Brilliant Essence: The Ritual Manual for the Secret Embodiment of
+        the Guru (Lama Sangdü)'
+      base_file: f9D98.txt
+      order: 32
+      parent: Lama Sangdü
+    fD977:
+      title: Light from the Wisdom Sun
+      base_file: fD977.txt
+      order: 33
+      parent: Mañjuśrī
+    fBB07:
+      title: A Sādhana of Golden Mañjughoṣa
+      base_file: fBB07.txt
+      order: 34
+      parent: Mañjuśrī
+    f9F7D:
+      title: 'Swift Bestowal of Blessings: A Peaceful Sādhana of Mañjuśrī'
+      base_file: f9F7D.txt
+      order: 35
+      parent: Mañjuśrī
+    f5864:
+      title: A Brief Mañjuśrī Sādhana
+      base_file: f5864.txt
+      order: 36
+      parent: Mañjuśrī
+    fC409:
+      title: Sādhana of Mañjughoṣa
+      base_file: fC409.txt
+      order: 37
+      parent: Mañjuśrī
+    f8F44:
+      title: A Sādhana of Mārīcī
+      base_file: f8F44.txt
+      order: 38
+      parent: Mārīcī
+    fB45D:
+      title: Sādhana of Mārīcī
+      base_file: fB45D.txt
+      order: 39
+      parent: Mārīcī
+    f47A4:
+      title: 'Making Great Bliss the Path: Visualisation and Mantra Recitation of
+        Medicine Buddha'
+      base_file: f47A4.txt
+      order: 40
+      parent: Medicine Buddha
+    f74BC:
+      title: 'Fast Track to Happiness and Peace: A Very Brief Meditation and Recitation
+        of the Medicine Buddha'
+      base_file: f74BC.txt
+      order: 41
+      parent: Medicine Buddha
+    f3106:
+      title: Sādhana of Bhaiṣajya Guru (Medicine Buddha)
+      base_file: f3106.txt
+      order: 42
+      parent: Medicine Buddha
+    f5DEC:
+      title: 'Highway of the Great Yoga: A Daily Practice for the Peaceful and Wrathful
+        Deities of the Self-Liberated Wisdom Mind'
+      base_file: f5DEC.txt
+      order: 43
+      parent: Peaceful & Wrathful Deities
+    f1F20:
+      title: A Brief Visualization and Recitation of the Great Mother Prajñāpāramitā
+      base_file: f1F20.txt
+      order: 44
+      parent: Prajñāpāramitā
+    fB452:
+      title: A Sādhana of Tārā Sarasvatī
+      base_file: fB452.txt
+      order: 45
+      parent: Sarasvatī
+    f4B8A:
+      title: A Sādhana of White Sarasvatī
+      base_file: f4B8A.txt
+      order: 46
+      parent: Sarasvatī
+    fFFDA:
+      title: A Concise Meditation and Mantra Recitation of Sarasvatī from the Heart
+        Essence of the Ḍākinī of Suchness (Chönyi Khandrö Tuktik)
+      base_file: fFFDA.txt
+      order: 47
+      parent: Sarasvatī
+    f4D42:
+      title: A Daily 'Hand-Clapping' Practice of Siṃhamukhā
+      base_file: f4D42.txt
+      order: 48
+      parent: Siṃhamukhā
+    f871F:
+      title: 'The Blazing Tower: A Daily Practice of Uṣṇīṣa-Sitātapatrā'
+      base_file: f871F.txt
+      order: 49
+      parent: Sitātapatrā
+    f0E02:
+      title: 'The Swift Steed of Garuḍa, King of Birds: An Instruction for Travelling
+        to Sukhāvatī: A Visualization and Recitation of Uṣnīṣa-Sitātapatrā'
+      base_file: f0E02.txt
+      order: 50
+      parent: Sitātapatrā
+    fEB6C:
+      title: A Sādhana of Sitātapatrā
+      base_file: fEB6C.txt
+      order: 51
+      parent: Sitātapatrā
+    fC2C8:
+      title: 'The Condensed Essence: A Daily Practice of the Wrathful Guru Takhyung
+        Barwa'
+      base_file: fC2C8.txt
+      order: 52
+      parent: Takhyung Barwa
+    f0998:
+      title: Condensed Daily Practice of The Heart Essence of the Sublime Lady of
+        Immortality
+      base_file: f0998.txt
+      order: 53
+      parent: Tārā
+    f4BFF:
+      title: A Means to Pacify the Fear of Natural Disasters
+      base_file: f4BFF.txt
+      order: 54
+      parent: Tārā
+    f6771:
+      title: Concise White Tārā Sādhana
+      base_file: f6771.txt
+      order: 55
+      parent: Tārā
+    f5905:
+      title: 'Swift Enchantment of the Three Realms: A Sādhana of Red Tārā'
+      base_file: f5905.txt
+      order: 56
+      parent: Tārā
+    f1EE9:
+      title: 'A Shower of Blessings: A Sādhana of Blue-Green Tārā'
+      base_file: f1EE9.txt
+      order: 57
+      parent: Tārā
+    f4690:
+      title: A Daily Practice of Ucchuṣma
+      base_file: f4690.txt
+      order: 58
+      parent: Ucchuṣma
+    fF524:
+      title: 'Moonlight of Pacifying Amṛta: A Daily Visualization and Recitation for
+        the Dispeller of All Samaya Corruptions and Pollutions'
+      base_file: fF524.txt
+      order: 59
+      parent: Ucchuṣma
+    fEB19:
+      title: Daily Practice of Vajrakīla
+      base_file: fEB19.txt
+      order: 60
+      parent: Vajrakīla
+    f1746:
+      title: The Essential Daily Practice of Vajrakīla
+      base_file: f1746.txt
+      order: 61
+      parent: Vajrakīla
+    fB9E6:
+      title: Daily Practice of Vajrakīla
+      base_file: fB9E6.txt
+      order: 62
+      parent: Vajrakīla
+    f2816:
+      title: 'The Accomplishment of Supreme Enlightened Activity: A Recitation Manual
+        for The Vajrakīla Root Tantra Section'
+      base_file: f2816.txt
+      order: 63
+      parent: Vajrakīla
+    f4BDE:
+      title: 'Inlaid Jewels: Addenda to the ''Neck-Pouch Dagger’ (Purba Gulkhukma)
+        Cycle'
+      base_file: f4BDE.txt
+      order: 64
+      parent: Vajrakīla
+    fF391:
+      title: The Single Mind Kīla Practice, Part of the 'Neck-Pouch Dagger’ (Purba
+        Gulkhukma) Cycle
+      base_file: fF391.txt
+      order: 65
+      parent: Vajrakīla
+    f17D0:
+      title: The Wisdom Mind Practice of One Kīla
+      base_file: f17D0.txt
+      order: 66
+      parent: Vajrakīla
+    fF7D7:
+      title: Concise Daily Practice of Vajrasattva
+      base_file: fF7D7.txt
+      order: 67
+      parent: Vajrasattva
+    fC39C:
+      title: Brief Vajrasattva Visualisation and Mantra Recitation
+      base_file: fC39C.txt
+      order: 68
+      parent: Vajrasattva
+    f2BE3:
+      title: 'The Cintāmaṇi (Wish-Fulfilling Jewel) Instruction: A Sādhana of the
+        Glorious Vajrasattva, a Method of Purification and Accomplishment for Both
+        Self and Others'
+      base_file: f2BE3.txt
+      order: 69
+      parent: Vajrasattva
+    f9C07:
+      title: Daily Practice of Mañjuśrī Yamāntaka
+      base_file: f9C07.txt
+      order: 70
+      parent: Yamāntaka
+    f99F1:
+      title: 'The Concentrated Essence: A Sādhana of Yeshe Tsogyal'
+      base_file: f99F1.txt
+      order: 71
+      parent: Yeshe Tsogyal
+    fC7F8:
+      title: 'Words of the Vajra Queen: An Essential Daily Practice of the Vidyādharas’
+        Female Practice'
+      base_file: fC7F8.txt
+      order: 72
+      parent: Yumka Dechen Gyalmo
+    f900C:
+      title: A Glorious Garland of Great Bliss, the Root Sādhana of the Queen of Great
+        Bliss, Yumka Tsogyal, from the Heart Essence of the Vast Expanse
+      base_file: f900C.txt
+      order: 73
+      parent: Yumka Dechen Gyalmo
+    f1DD8:
+      title: 'The Light of Primordial Wisdom: An Instruction Manual for the Primordially
+        Pure Perfection Stage of the Powerful & Wrathful Dorje Drolö, Conqueror of
+        Demons'
+      base_file: f1DD8.txt
+      order: 74
+      parent: Commentaries
+    f7222:
+      title: A Daily Practice of Vajraṇakhī
+      base_file: f7222.txt
+      order: 75
+      parent: Vajraṇakhī
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
